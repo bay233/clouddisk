@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fileTypes>
+	<item fileType="1">png,PNG,jpg,JPG,jpeg,JPEG,bmp,BMP,gif,GIF</item>
+	<item fileType="2">txt,TXT,doc,DOC,DOCX,docx,ppt,PPT,rtf,RTF,pdf,PDF</item>
+	<item fileType="3">mp3,MP3,wav,WAV</item>
+	<item fileType="4">mp4,MP4,avi,AVI,mov,MOV</item>
+</fileTypes>
